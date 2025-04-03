@@ -1,2 +1,35 @@
-# -Tic-Tac-Toe-Web-App-HTML-CSS-JS
-🕹️ A responsive Tic Tac Toe game built with vanilla JavaScript, deployed as a web app  🔗 Live Demo: Play Now (replace with your actual URL) 📱 Mobile App Version: Available via WebIntoApp
+🎮 Tic-Tac-Toe Web App
+A clean, responsive Tic-Tac-Toe game built with vanilla JavaScript
+🔗 Live Demo | 📱 Mobile-App Ready
+
+Tic-Tac-Toe Screenshot (replace with actual screenshot)
+
+✨ Features
+✅ Minimalist Design: Clean 3x3 grid with intuitive UI
+✅ Smart Game Logic: Full win/draw detection
+✅ Responsive: Works flawlessly on mobile/desktop
+✅ Zero Dependencies: Pure HTML/CSS/JS
+✅ App Convertible: Ready for WebIntoApp deployment
+
+🛠️ Tech Stack
+flowchart 
+    HTML5 --> CSS3
+    CSS3 --> JavaScript
+    JavaScript --> TinyHost
+    TinyHost --> WebIntoApp
+
+🌟 Special Features
+Smooth hover animations
+
+Clear turn indicators
+
+Instant win recognition
+
+One-click restart
+
+📦 Deployment
+Web: Hosted on TinyHost
+
+Mobile: Convertible via WebIntoApp
+
+No backend needed: Fully client-side

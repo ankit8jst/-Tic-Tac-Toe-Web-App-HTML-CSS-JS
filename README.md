@@ -1,6 +1,6 @@
 🎮 Tic-Tac-Toe Web App
 A clean, responsive Tic-Tac-Toe game built with vanilla JavaScript
-🔗 Live Demo | 📱 Mobile-App Ready
+🔗 Live Demo | 📱 Mobile-App Ready - https://jade-jinny-9.tiiny.site/
 
 Tic-Tac-Toe Screenshot (replace with actual screenshot)
 

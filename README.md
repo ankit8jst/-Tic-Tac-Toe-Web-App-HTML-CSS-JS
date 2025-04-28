@@ -2,7 +2,7 @@
 A clean, responsive Tic-Tac-Toe game built with vanilla JavaScript
 🔗 Live Demo | 📱 Mobile-App Ready - https://jade-jinny-9.tiiny.site/
 
-Tic-Tac-Toe Screenshot (replace with actual screenshot)
+Tic-Tac-Toe Screenshot 
 
 ✨ Features
 ✅ Minimalist Design: Clean 3x3 grid with intuitive UI
